@@ -1,2 +1,2 @@
-# Cliker-Game
+# Cliker Game
  
